@@ -4,8 +4,7 @@
 <tr>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/user-card.svg" width="20" height="40" /> &nbsp;**ABOUT ME**
-
+<img src="./assets/icons/user-card.svg" width="20" height="40" /> &nbsp;**ABOUT ME**<br/>
 <img src="./assets/icons/rule.svg" width="26" height="6" />
 
 UI/UX designer and full-stack developer. I design and build clean, modern digital experiences that solve real problems.
@@ -17,8 +16,7 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/projects-card.svg" width="20" height="40" /> &nbsp;**SELECTED PROJECTS**
-
+<img src="./assets/icons/projects-card.svg" width="20" height="40" /> &nbsp;**SELECTED PROJECTS**<br/>
 <img src="./assets/icons/rule.svg" width="26" height="6" />
 
 **Creator Analytics**
@@ -36,8 +34,7 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/tools-card.svg" width="20" height="40" /> &nbsp;**TOOLS**
-
+<img src="./assets/icons/tools-card.svg" width="20" height="40" /> &nbsp;**TOOLS**<br/>
 <img src="./assets/icons/rule.svg" width="26" height="6" />
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" width="100%" />
@@ -47,8 +44,7 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/connect-card.svg" width="20" height="40" /> &nbsp;**CONNECT**
-
+<img src="./assets/icons/connect-card.svg" width="20" height="40" /> &nbsp;**CONNECT**<br/>
 <img src="./assets/icons/rule.svg" width="26" height="6" />
 
 <a href="https://github.com/meetroj">
