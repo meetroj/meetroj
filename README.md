@@ -44,11 +44,19 @@ Always learning. Always shipping.
 <img src="./assets/head/connect.png" width="99" alt="CONNECT" />
 
 <a href="https://github.com/meetroj">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF4655" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="18" align="center" /> &nbsp;<sub>github.com/meetroj</sub>
 </a>
-<br/>
-<a href="mailto:meetroj4412@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF4655" />
+<br/><br/>
+<a href="https://www.linkedin.com/in/meetroj/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center" /> &nbsp;<sub>linkedin.com/in/meetroj</sub>
+</a>
+<br/><br/>
+<a href="https://www.instagram.com/meettroj/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" align="center" /> &nbsp;<sub>instagram.com/meettroj</sub>
+</a>
+<br/><br/>
+<a href="mailto:meetroj441@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" align="center" /> &nbsp;<sub>meetroj441@gmail.com</sub>
 </a>
 
 <br/>
