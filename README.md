@@ -17,17 +17,17 @@ Always learning. Always shipping.
 
 <img src="./assets/head/projects.png" width="177" alt="SELECTED PROJECTS" />
 
-**Creator Analytics**
-<br/><sub>Influencer dashboard, admin panel, card builder.</sub>
+**[Homingo](https://itshomingo.com/)**
+<br/><sub>One app for all home services — booking, worker app, live job assignment.</sub>
 
-**POV Camera**
-<br/><sub>QR-based event photo sharing.</sub>
+**[UGCad.io](https://www.ugcad.io/)**
+<br/><sub>Platform connecting brands with UGC creators — campaigns, deal flow, payouts.</sub>
 
-**UGC Marketplace**
-<br/><sub>Brand ↔ creator deal flow.</sub>
+**[WOW Events](https://wow-sigma-one.vercel.app/)**
+<br/><sub>Event design studio site — weddings, launches, brand activations.</sub>
 
-**Homingo Worker**
-<br/><sub>Field-worker app with live job assignment.</sub>
+**[Actipro Foods](https://www.actiprofoods.com/)**
+<br/><sub>Product & brand site for Actipro Sunflower Oil.</sub>
 
 </td>
 <td width="25%" valign="top">
@@ -44,19 +44,16 @@ Always learning. Always shipping.
 <img src="./assets/head/connect.png" width="99" alt="CONNECT" />
 
 <a href="https://github.com/meetroj">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="18" align="center" /> &nbsp;<sub>github.com/meetroj</sub>
+<img src="https://img.shields.io/badge/meetroj-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<br/><br/>
 <a href="https://www.linkedin.com/in/meetroj/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center" /> &nbsp;<sub>linkedin.com/in/meetroj</sub>
+<img src="https://img.shields.io/badge/meetroj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br/><br/>
 <a href="https://www.instagram.com/meettroj/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" align="center" /> &nbsp;<sub>instagram.com/meettroj</sub>
+<img src="https://img.shields.io/badge/meettroj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br/><br/>
 <a href="mailto:meetroj441@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" align="center" /> &nbsp;<sub>meetroj441@gmail.com</sub>
+<img src="https://img.shields.io/badge/meetroj441@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
