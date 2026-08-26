@@ -4,7 +4,7 @@
 <tr>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/user-card.svg" width="20" align="center" /> &nbsp;**ABOUT ME**
+<img src="./assets/icons/user-card.svg" width="20" height="40" /> &nbsp;**ABOUT ME**
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
 
