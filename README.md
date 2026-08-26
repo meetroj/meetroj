@@ -4,9 +4,9 @@
 <tr>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/user.svg" width="22" align="center" /> &nbsp;**ABOUT ME**
+<img src="./assets/icons/user.svg" width="20" align="center" /> &nbsp;**ABOUT ME**
 
-<img src="./assets/icons/rule.svg" width="46" />
+<img src="./assets/icons/rule.svg" width="34" height="10" />
 
 Full-stack developer who owns the whole flow — API design, data modelling, UI, deploy.
 
@@ -17,9 +17,9 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/projects.svg" width="22" align="center" /> &nbsp;**SELECTED PROJECTS**
+<img src="./assets/icons/projects.svg" width="20" align="center" /> &nbsp;**SELECTED PROJECTS**
 
-<img src="./assets/icons/rule.svg" width="46" />
+<img src="./assets/icons/rule.svg" width="34" height="10" />
 
 **Creator Analytics**
 <br/><sub>Influencer dashboard, admin panel, card builder.</sub>
@@ -36,9 +36,9 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/tools.svg" width="22" align="center" /> &nbsp;**TOOLS**
+<img src="./assets/icons/tools.svg" width="20" align="center" /> &nbsp;**TOOLS**
 
-<img src="./assets/icons/rule.svg" width="46" />
+<img src="./assets/icons/rule.svg" width="34" height="10" />
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" width="100%" />
 <img src="https://skillicons.dev/icons?i=ts,js,tailwind,vite&theme=dark" width="100%" />
@@ -47,9 +47,9 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/connect.svg" width="22" align="center" /> &nbsp;**CONNECT**
+<img src="./assets/icons/connect.svg" width="20" align="center" /> &nbsp;**CONNECT**
 
-<img src="./assets/icons/rule.svg" width="46" />
+<img src="./assets/icons/rule.svg" width="34" height="10" />
 
 <a href="https://github.com/meetroj">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF4655" />
