@@ -4,8 +4,6 @@
 <tr>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/spacer.svg" width="1" height="14" />
-
 <img src="./assets/icons/user.svg" width="20" align="center" /> &nbsp;**ABOUT ME**
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
@@ -18,8 +16,6 @@ Always learning. Always shipping.
 
 </td>
 <td width="25%" valign="top">
-
-<img src="./assets/icons/spacer.svg" width="1" height="14" />
 
 <img src="./assets/icons/projects.svg" width="20" align="center" /> &nbsp;**SELECTED PROJECTS**
 
@@ -40,8 +36,6 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/spacer.svg" width="1" height="14" />
-
 <img src="./assets/icons/tools.svg" width="20" align="center" /> &nbsp;**TOOLS**
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
@@ -52,8 +46,6 @@ Always learning. Always shipping.
 
 </td>
 <td width="25%" valign="top">
-
-<img src="./assets/icons/spacer.svg" width="1" height="14" />
 
 <img src="./assets/icons/connect.svg" width="20" align="center" /> &nbsp;**CONNECT**
 
