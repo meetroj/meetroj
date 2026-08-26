@@ -1,24 +1,64 @@
-<img src="./assets/banner.png" alt="Meet — Full-Stack Developer" width="100%" />
+<img src="./assets/banner.png" alt="Meet Roj — Full-Stack Developer" width="100%" />
 
-<h1 align="center">
-  <span>MEET</span>
-</h1>
+<table>
+<tr>
+<td width="25%" valign="top">
 
-<p align="center">
-  <b>FULL-STACK DEVELOPER</b> &nbsp;•&nbsp; <b>MERN</b> &nbsp;•&nbsp; <b>REACT NATIVE</b>
-</p>
+#### 👤 &nbsp;ABOUT ME
 
-<p align="center">
-  <i>I build web and mobile products end to end — from the database schema up to the screen the user actually taps.</i>
-</p>
+Full-stack developer who owns the whole flow — API design, data modelling, UI, deploy.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-FULL_STACK-FF4655?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-MONGODB-0D1117?style=flat-square&labelColor=0D1117&color=161B22" />
-  <img src="https://img.shields.io/badge/-EXPRESS-0D1117?style=flat-square&labelColor=0D1117&color=161B22" />
-  <img src="https://img.shields.io/badge/-REACT-0D1117?style=flat-square&labelColor=0D1117&color=161B22" />
-  <img src="https://img.shields.io/badge/-NODE-0D1117?style=flat-square&labelColor=0D1117&color=161B22" />
-</p>
+Always learning. Always shipping.
+
+*Adapt. Build. Ship.*
+
+</td>
+<td width="25%" valign="top">
+
+#### 🗂️ &nbsp;PROJECTS
+
+**Creator Analytics**
+<br/><sub>Influencer dashboard, admin panel, card builder.</sub>
+
+**POV Camera**
+<br/><sub>QR-based event photo sharing.</sub>
+
+**UGC Marketplace**
+<br/><sub>Brand ↔ creator deal flow.</sub>
+
+**Homingo Worker**
+<br/><sub>Field-worker app with live job assignment.</sub>
+
+</td>
+<td width="25%" valign="top">
+
+#### 💻 &nbsp;TOOLS
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=ts,js,tailwind,vite&theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=firebase,git,postman,vercel&theme=dark" width="100%" />
+
+</td>
+<td width="25%" valign="top">
+
+#### 📡 &nbsp;CONNECT
+
+<a href="https://github.com/meetroj">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF4655" />
+</a>
+<br/>
+<a href="mailto:synquic@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF4655" />
+</a>
+
+<br/>
+
+**Open to**
+<br/><sub>Collaboration & freelance work.</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4" />
 
@@ -150,17 +190,6 @@ Field-worker mobile app with job assignment, geolocation, and push.
 </p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4" />
-
-## <img src="https://img.shields.io/badge/-%2F-FF4655?style=flat-square&labelColor=0D1117" /> CONNECT
-
-<p align="center">
-  <a href="https://github.com/meetroj">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF4655" />
-  </a>
-  <a href="mailto:synquic@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4655" />
-  </a>
-</p>
 
 <p align="center">
   <i>Adapt. Build. Ship.</i>
