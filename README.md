@@ -70,23 +70,6 @@ Always learning. Always shipping.
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4" />
 
-## <img src="./assets/icons/stats.svg" width="26" align="center" /> &nbsp;STATS
-
-<p align="center">
-  <a href="https://github.com/meetroj">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=meetroj&show_icons=true&hide_border=true&count_private=true&title_color=FF4655&icon_color=FF4655&text_color=8B949E&bg_color=0D1117" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/meetroj?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetroj&layout=compact&hide_border=true&langs_count=8&title_color=FF4655&text_color=8B949E&bg_color=0D1117" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=meetroj&hide_border=true&background=0D1117&stroke=FF4655&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=8B949E&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8B949E" alt="Streak" />
-</p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4" />
-
 <p align="center">
   <i>Adapt. Build. Ship.</i>
 </p>
