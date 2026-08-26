@@ -17,7 +17,7 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/projects.svg" width="20" align="center" /> &nbsp;**SELECTED PROJECTS**
+<img src="./assets/icons/projects-card.svg" width="20" height="40" /> &nbsp;**SELECTED PROJECTS**
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
 
@@ -36,7 +36,7 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/tools.svg" width="20" align="center" /> &nbsp;**TOOLS**
+<img src="./assets/icons/tools-card.svg" width="20" height="40" /> &nbsp;**TOOLS**
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
 
@@ -47,7 +47,7 @@ Always learning. Always shipping.
 </td>
 <td width="25%" valign="top">
 
-<img src="./assets/icons/connect.svg" width="20" align="center" /> &nbsp;**CONNECT**
+<img src="./assets/icons/connect-card.svg" width="20" height="40" /> &nbsp;**CONNECT**
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
 
