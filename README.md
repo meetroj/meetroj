@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Meet Roj — Full-Stack Developer" width="100%" />
+<img src="./assets/banner.png" alt="Meet Roj — UI/UX Designer & Full-Stack Developer" width="100%" />
 
 <table>
 <tr>
@@ -8,7 +8,7 @@
 
 <img src="./assets/icons/rule.svg" width="34" height="10" />
 
-Full-stack developer who owns the whole flow — API design, data modelling, UI, deploy.
+UI/UX designer and full-stack developer. I design and build clean, modern digital experiences that solve real problems.
 
 Always learning. Always shipping.
 
@@ -55,7 +55,7 @@ Always learning. Always shipping.
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF4655" />
 </a>
 <br/>
-<a href="mailto:synquic@gmail.com">
+<a href="mailto:meetroj4412@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF4655" />
 </a>
 
