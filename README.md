@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Meet Roj — UI/UX Designer & Full-Stack Developer" width="100%" />
+<img src="./assets/banner.png" alt="Meet Roj — UI/UX · Full Stack · Android App Developer" width="100%" />
 
 <table>
 <tr>
@@ -6,7 +6,7 @@
 
 <img src="./assets/head/about.png" width="107" alt="ABOUT ME" />
 
-UI/UX designer and full-stack developer. I design and build clean, modern digital experiences that solve real problems.
+UI/UX, full-stack and Android app developer. I design and build clean, modern digital experiences that solve real problems.
 
 Always learning. Always shipping.
 
